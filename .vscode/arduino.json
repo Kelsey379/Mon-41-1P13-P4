@@ -1,0 +1,5 @@
+{
+    "sketch": "sensitivity_control.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}
