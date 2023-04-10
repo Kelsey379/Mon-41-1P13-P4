@@ -1,3 +1,4 @@
+//Note: this is old code, no longer used for final prototype
 //sample code to test button functionality - will be refactored and integrated with sensitivity_control.ino
 const int buttonPin1 = 6;
 const int ledPin1 = 13;  
