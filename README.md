@@ -3,5 +3,5 @@ This project is an accessible joystick-controlled keyboard and mouse combo, whic
 
 Key files: 
 - Joystick Visualizer: uses pyGame to visualize the location of the joyscick at any given time
-- Combined Mouse & Keyboard - the main python file to control the output, also includes the visualizer
-- Mouse_Keyboard - the code running on the arduino for joystick functionality
+- Combined Mouse & Keyboard: the main python file to control the output, also includes the visualizer
+- Mouse_Keyboard: the code running on the arduino for joystick functionality
